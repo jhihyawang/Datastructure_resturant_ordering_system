@@ -1,0 +1,15 @@
+5
+2,Sesame paste noodles ,40,6
+1,Lamb fry rice ,80,5
+##
+640/
+3
+2,Spicy hot noodles ,40,5
+1,Lamb fry rice ,80,4
+##
+520/
+1
+2,Sliced noodles ,50,2
+1,Pork fry rice ,70,6
+##
+520/
