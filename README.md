@@ -13,4 +13,3 @@ staff.py
 Deliverytime.py
 使用 Dijkstra最短路徑 
 使用Floyd 分店距離 
-![Uploading image.png…]()
